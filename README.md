@@ -75,7 +75,7 @@ Solution are listed in step 1.5.
 
 
 #### Compile error with -mcmodel=medany
-- [issue on riscv-pk repo](-mcmodel=medany problem when compiling). 
+- [issue on riscv-pk repo](https://github.com/riscv/riscv-pk/issues/28).
 - Please make sure you use the riscv-gnu-toolchain to compile riscv-pk
 (instead of gcc), please build riscv-gnu-toolchain first.
 
